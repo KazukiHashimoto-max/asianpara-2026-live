@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "generated_at_utc": null,
+  "window": "2026-10-16〜2026-10-24 / 09:00〜24:00 JST（5分ごと、GitHub Actionsの実行遅延あり）",
+  "sources": {
+    "news": {"state": "never", "last_success": null, "last_attempt": null, "error": "GitHub Actions初回実行前"},
+    "schedule": {"state": "never", "last_success": null, "last_attempt": null, "error": "GitHub Actions初回実行前"},
+    "results": {"state": "not_connected", "last_success": null, "error": "公式競技結果の機械取得APIは未検証。記事から見つかった候補は自動確定しません。"}
+  },
+  "updates": [],
+  "sessions": [],
+  "schedule_changes": [],
+  "gold_candidates": [],
+  "verified_gold": [],
+  "run_history": []
+}
